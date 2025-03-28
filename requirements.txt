@@ -1,0 +1,6 @@
+streamlit
+sqlite3
+hashlib
+datetime
+pandas
+cryptography
